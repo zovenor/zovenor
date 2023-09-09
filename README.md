@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&text=Welcome!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome!&fontSize=70&customColorList=14)
 
 
 ### Skills
